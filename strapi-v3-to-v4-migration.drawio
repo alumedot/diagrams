@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T11:32:49.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="U2mrOdeVm4YKM3xMgG_k" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T08:56:05.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="WpXMjULgX7lZCMmdozPJ" version="17.1.3" type="github">
   <diagram id="J4wC34Yu5fieh8alF0eG" name="Page-1">
-    <mxGraphModel dx="1299" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,38 @@
         <mxCell id="TM4qYt3Gy3iJOAzo3s-N-5" value="&lt;font style=&quot;font-size: 9px&quot;&gt;migration scripts in progress&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="713.75" width="95" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="TM4qYt3Gy3iJOAzo3s-N-9" target="TM4qYt3Gy3iJOAzo3s-N-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TM4qYt3Gy3iJOAzo3s-N-9" value="migration with&lt;br&gt;strapi codemods" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="290" y="485" width="110" height="40" as="geometry" />
+          <mxGeometry x="280" y="485" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="TM4qYt3Gy3iJOAzo3s-N-11" target="TM4qYt3Gy3iJOAzo3s-N-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-11" value="moved files, upgraded dependencies" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="430" y="485" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="TM4qYt3Gy3iJOAzo3s-N-13" target="TM4qYt3Gy3iJOAzo3s-N-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-13" value="error:&amp;nbsp;The key of the content-type should be the same as its singularName. Found rules and rule." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="827" y="295" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-15" value="seems like fixed changing the name of the folders in the &lt;b&gt;api/ &lt;/b&gt;from plural to singular&lt;b&gt;&amp;nbsp;&lt;/b&gt;(e.g. ambassadors/ -&amp;gt;ambassador/)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="997" y="290" width="260" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="TM4qYt3Gy3iJOAzo3s-N-17" target="TM4qYt3Gy3iJOAzo3s-N-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="TM4qYt3Gy3iJOAzo3s-N-17" target="TM4qYt3Gy3iJOAzo3s-N-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-17" value="trying to start up the server" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="600" y="485" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TM4qYt3Gy3iJOAzo3s-N-20" value="custom routes, error due to absence of the &lt;b&gt;content-type&lt;/b&gt; directory (we can&#39;t add it for these routes since they will be displayed in the admin panel)" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="827" y="457.5" width="200" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
