@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T17:18:27.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-B5VkhkKvETGTI_VdhWY" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T17:38:27.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8tJlv5jwCwwt2-CulUwa" version="20.0.1" type="github">
   <diagram id="aHNKHW4gfiG19FA5dcw-" name="Page-1">
-    <mxGraphModel dx="2590" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2279" dy="2103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,57 +277,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-23" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;onClick dropdown menu action flow&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="2510" width="370" height="110" as="geometry" />
+          <mxGeometry x="-584.06" y="2360" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-24" target="L2qRLNlGOoOiskbMTmGe-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-24" value="&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#808080;&quot;&gt;TeamAdminActionsMenu&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color:#ffcb6b;font-style:italic;&quot;&gt;  onAction&lt;/span&gt;&lt;span style=&quot;color:#c3e88d;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color:#82aaff;&quot;&gt;onActionHandler&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;}&lt;/span&gt;&lt;/pre&gt;&lt;span style=&quot;color:#808080;&quot;&gt;/&amp;gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-255" y="2760" width="240" height="80" as="geometry" />
+          <mxGeometry x="-519.06" y="2610" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-25" target="L2qRLNlGOoOiskbMTmGe-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-25" value="&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;span style=&quot;color:#ffcb6b;font-style:italic;&quot;&gt;&amp;lt;TeamAdminActionsMenuContent /&amp;gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;span style=&quot;color:#ffcb6b;font-style:italic;&quot;&gt;onClick&lt;/span&gt;&lt;span style=&quot;color:#c3e88d;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;{() =&amp;gt; &lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;onAction &lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;&amp;amp;&amp;amp; &lt;/span&gt;&lt;span style=&quot;background-color:#2b2b2b;&quot;&gt;onAction&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;command&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;)}&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-305" y="2660" width="340" height="60" as="geometry" />
+          <mxGeometry x="-569.06" y="2510" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-30" target="L2qRLNlGOoOiskbMTmGe-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-392.5" y="3180" as="targetPoint" />
+            <mxPoint x="-656.56" y="3030" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-357" y="3030" />
-              <mxPoint x="-392" y="3030" />
+              <mxPoint x="-621.06" y="2880" />
+              <mxPoint x="-656.06" y="2880" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-30" target="L2qRLNlGOoOiskbMTmGe-44">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="3010" as="targetPoint" />
+            <mxPoint x="-104.06" y="2860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-30" value="&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;span style=&quot;color:#c792ea;font-style:italic;&quot;&gt;const &lt;/span&gt;modalActions &lt;span style=&quot;color:#89ddff;&quot;&gt;= [&lt;/span&gt;&lt;span style=&quot;color:#ffcb6b;&quot;&gt;Action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-style:italic;&quot;&gt;Qualify&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;];&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#c792ea;font-style:italic;&quot;&gt;function &lt;/span&gt;&lt;span style=&quot;color:#82aaff;&quot;&gt;onActionHandler&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot;color:#ffcb6b;&quot;&gt;Action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;?: &lt;/span&gt;&lt;span style=&quot;color:#c792ea;font-style:italic;&quot;&gt;string&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;) {&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;  &lt;/span&gt;&lt;span style=&quot;color:#c792ea;font-style:italic;&quot;&gt;if &lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;(&lt;/span&gt;modalActions&lt;span style=&quot;color:#89ddff;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color:#82aaff;&quot;&gt;includes&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;)) {&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color:#82aaff;&quot;&gt;setModalAction&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;);&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color:#82aaff;&quot;&gt;setModalOpen&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#f78c6c;font-style:italic;&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;);&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;  } &lt;/span&gt;&lt;span style=&quot;color:#c792ea;font-style:italic;&quot;&gt;else &lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;{&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;    &lt;/span&gt;context&lt;span style=&quot;color:#89ddff;&quot;&gt;!.&lt;/span&gt;onMenuAction&lt;span style=&quot;color:#89ddff;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;subscription&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#f78c6c;&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;);&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;  }&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;}&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=18;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-357.5" y="2923" width="445" height="170" as="geometry" />
+          <mxGeometry x="-621.56" y="2773" width="445" height="170" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-33" value="&lt;pre style=&quot;color: rgb(238, 255, 255); font-size: 9pt; text-align: left; font-family: Menlo, monospace;&quot;&gt;&lt;span style=&quot;color: rgb(130, 170, 255);&quot;&gt;onActionHandler&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="2870" width="120" height="30" as="geometry" />
+          <mxGeometry x="-459.06" y="2720" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-34" target="L2qRLNlGOoOiskbMTmGe-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-34" value="root component&lt;br style=&quot;font-size: 15px;&quot;&gt;/ChampionshipTeam/index.tsx&lt;br&gt;&lt;pre style=&quot;color: rgb(238, 255, 255); font-size: 9pt; background-color: rgb(33, 33, 33); font-family: Menlo, monospace;&quot;&gt;onMenuAction&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(247, 140, 108);&quot;&gt;action&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(247, 140, 108);&quot;&gt;subscription&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color: rgb(247, 140, 108);&quot;&gt;data&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;)&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=15;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-542.5" y="3170" width="300" height="80" as="geometry" />
+          <mxGeometry x="-806.56" y="3020" width="300" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-42" value="&lt;pre style=&quot;text-align: left; background-color: rgb(33, 33, 33); color: rgb(238, 255, 255); font-family: Menlo, monospace; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color: rgb(199, 146, 234); font-style: italic;&quot;&gt;else &lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;{&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-437.5" y="3120" width="90" height="20" as="geometry" />
+          <mxGeometry x="-701.56" y="2970" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-44" target="L2qRLNlGOoOiskbMTmGe-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-44" value="seems like it&#39;s only &lt;b&gt;Qualify&lt;/b&gt;&lt;br&gt;&lt;pre style=&quot;text-align: left; background-color: rgb(33, 33, 33); color: rgb(238, 255, 255); font-family: Menlo, monospace; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color: rgb(199, 146, 234); font-style: italic;&quot;&gt;if &lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;(&lt;/span&gt;modalActions&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: rgb(130, 170, 255);&quot;&gt;includes&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(247, 140, 108);&quot;&gt;action&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;)) {&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="160" y="3150" width="270" height="60" as="geometry" />
+          <mxGeometry x="-75" y="3000" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-45" value="&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;{&lt;/span&gt;isModalOpen &lt;span style=&quot;color:#89ddff;&quot;&gt;&amp;amp;&amp;amp; (&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;  &amp;lt;&lt;/span&gt;&lt;span style=&quot;color:#808080;&quot;&gt;ChampionshipActionsModal&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="3240" width="205" height="60" as="geometry" />
+          <mxGeometry x="-42.5" y="3090" width="205" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-49" target="L2qRLNlGOoOiskbMTmGe-51">
           <mxGeometry relative="1" as="geometry" />
@@ -338,22 +338,31 @@
         <mxCell id="L2qRLNlGOoOiskbMTmGe-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-49" target="L2qRLNlGOoOiskbMTmGe-57">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-200" y="3310" />
-              <mxPoint x="-200" y="3560" />
+              <mxPoint x="-464.06" y="3160" />
+              <mxPoint x="-464.06" y="3410" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="L2qRLNlGOoOiskbMTmGe-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-49" target="L2qRLNlGOoOiskbMTmGe-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-49" value="&lt;pre style=&quot;background-color: rgb(33, 33, 33); font-family: Menlo, monospace; font-size: 9pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color: rgb(199, 146, 234); font-style: italic;&quot;&gt;if &lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(247, 140, 108);&quot;&gt;action &lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;=== &lt;/span&gt;&lt;span style=&quot;color: rgb(255, 203, 107);&quot;&gt;Action&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;.&lt;/span&gt;&lt;font color=&quot;#eeffff&quot;&gt;&lt;i&gt;&amp;lt;SomeAction&amp;gt;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(137, 221, 255);&quot;&gt;) {...}&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=15;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-545.94" y="3280" width="306.87" height="60" as="geometry" />
+          <mxGeometry x="-810" y="3130" width="306.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Postpone for `easy join`&lt;br&gt;&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color:#ffcb6b;&quot;&gt;Action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-style:italic;&quot;&gt;Edit&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="3330" width="160" height="60" as="geometry" />
+          <mxGeometry x="-424.06" y="3180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2qRLNlGOoOiskbMTmGe-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;This action is not used here since it&#39;s been used in the &lt;b&gt;if &lt;/b&gt;condition&lt;br&gt;&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;span style=&quot;color:#ffcb6b;&quot;&gt;Action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-style:italic;&quot;&gt;Qualify&lt;/span&gt;&lt;/pre&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="3420" width="220" height="80" as="geometry" />
+          <mxGeometry x="-424.06" y="3270" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L2qRLNlGOoOiskbMTmGe-57" value="" style="whiteSpace=wrap;html=1;fontSize=15;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="3530" width="120" height="60" as="geometry" />
+        <mxCell id="L2qRLNlGOoOiskbMTmGe-57" value="seem like it&#39;s without a modal&lt;br&gt;&lt;pre style=&quot;background-color:#212121;color:#eeffff;font-family:&#39;Menlo&#39;,monospace;font-size:9.0pt;&quot;&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;color:#ffcb6b;&quot;&gt;Action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-style:italic;&quot;&gt;Approve&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;color:#ffcb6b;&quot;&gt;Action&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;font-style:italic;&quot;&gt;UndoApprove&lt;/span&gt;&lt;span style=&quot;color:#89ddff;&quot;&gt;]&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=15;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-424.06" y="3380" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2qRLNlGOoOiskbMTmGe-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="L2qRLNlGOoOiskbMTmGe-60" target="K-MWMMZSNl8B8O_7Jwgp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2qRLNlGOoOiskbMTmGe-60" value="if the action is non of these above&lt;br&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 9pt;&quot;&gt;&lt;span style=&quot;color: rgb(199, 146, 234); background-color: rgb(33, 33, 33); font-style: italic;&quot;&gt;const &lt;/span&gt;&lt;font color=&quot;#eeffff&quot;&gt;&lt;span style=&quot;background-color: rgb(33, 33, 33);&quot;&gt;actionModalProps &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;= &lt;/span&gt;&lt;span style=&quot;color: rgb(130, 170, 255); background-color: rgb(33, 33, 33);&quot;&gt;getActionDialogSpec&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;(&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#89ddff&quot;&gt;&lt;span style=&quot;background-color: rgb(33, 33, 33);&quot;&gt;  &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(238, 255, 255); background-color: rgb(43, 43, 43);&quot;&gt;action&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(33, 33, 33);&quot;&gt;&lt;font color=&quot;#89ddff&quot;&gt;  &lt;/font&gt;&lt;font color=&quot;#eeffff&quot;&gt;championship&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;!,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgb(33, 33, 33);&quot;&gt;&lt;font color=&quot;#89ddff&quot;&gt;  &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(247, 140, 108); background-color: rgb(33, 33, 33);&quot;&gt;subscription&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;  &lt;/span&gt;&lt;font color=&quot;#eeffff&quot;&gt;&lt;span style=&quot;background-color: rgb(33, 33, 33);&quot;&gt;isSoloChampionship&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;);&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(130, 170, 255); background-color: rgb(33, 33, 33);&quot;&gt;setActionModalProps&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(238, 255, 255); background-color: rgb(43, 43, 43);&quot;&gt;actionModalProps&lt;/span&gt;&lt;span style=&quot;color: rgb(137, 221, 255); background-color: rgb(33, 33, 33);&quot;&gt;);&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fontSize=15;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-424.06" y="3470" width="330" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
